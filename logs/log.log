@@ -1,0 +1,168 @@
+[] 2020-07-15 21:50:49.578 [INFO] [restartedMain] [com.mi.AllLearningExampleApplication] 55 - Starting AllLearningExampleApplication on DESKTOP-OVCH32V with PID 19148 (D:\资料文案\code 项目笔记\all-learning-example\target\classes started by changrong in D:\资料文案\code 项目笔记\all-learning-example)
+[] 2020-07-15 21:50:49.583 [INFO] [restartedMain] [com.mi.AllLearningExampleApplication] 651 - No active profile set, falling back to default profiles: default
+[] 2020-07-15 21:50:49.696 [INFO] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] 225 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[] 2020-07-15 21:50:49.697 [INFO] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] 225 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[] 2020-07-15 21:50:51.444 [INFO] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] 108 - Tomcat initialized with port(s): 8080 (http)
+[] 2020-07-15 21:50:51.492 [INFO] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] 173 - Initializing ProtocolHandler ["http-nio-8080"]
+[] 2020-07-15 21:50:51.493 [INFO] [restartedMain] [org.apache.catalina.core.StandardService] 173 - Starting service [Tomcat]
+[] 2020-07-15 21:50:51.493 [INFO] [restartedMain] [org.apache.catalina.core.StandardEngine] 173 - Starting Servlet engine: [Apache Tomcat/9.0.36]
+[] 2020-07-15 21:50:51.667 [INFO] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] 173 - Initializing Spring embedded WebApplicationContext
+[] 2020-07-15 21:50:51.667 [INFO] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] 285 - Root WebApplicationContext: initialization completed in 1970 ms
+[] 2020-07-15 21:50:53.542 [INFO] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] 58 - LiveReload server is running on port 35729
+[] 2020-07-15 21:50:53.552 [INFO] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] 173 - Starting ProtocolHandler ["http-nio-8080"]
+[] 2020-07-15 21:50:53.588 [INFO] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] 220 - Tomcat started on port(s): 8080 (http) with context path ''
+[] 2020-07-15 21:50:53.609 [INFO] [restartedMain] [com.mi.AllLearningExampleApplication] 61 - Started AllLearningExampleApplication in 5.099 seconds (JVM running for 6.74)
+[] 2020-07-15 21:51:08.312 [INFO] [http-nio-8080-exec-2] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] 173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[] 2020-07-15 21:51:08.314 [INFO] [http-nio-8080-exec-2] [org.springframework.web.servlet.DispatcherServlet] 525 - Initializing Servlet 'dispatcherServlet'
+[] 2020-07-15 21:51:08.330 [INFO] [http-nio-8080-exec-2] [org.springframework.web.servlet.DispatcherServlet] 547 - Completed initialization in 16 ms
+[] 2020-07-15 21:51:08.464 [INFO] [http-nio-8080-exec-2] [com.mi.controller.UserController] 115 - 未使用缓存
+[] 2020-07-15 21:51:08.609 [INFO] [http-nio-8080-exec-2] [com.zaxxer.hikari.HikariDataSource] 110 - HikariPool-1 - Starting...
+[] 2020-07-15 21:51:08.613 [WARN] [http-nio-8080-exec-2] [com.zaxxer.hikari.util.DriverDataSource] 70 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+[] 2020-07-15 21:51:08.835 [INFO] [http-nio-8080-exec-2] [com.zaxxer.hikari.HikariDataSource] 123 - HikariPool-1 - Start completed.
+[] 2020-07-15 21:53:28.688 [INFO] [restartedMain] [com.mi.AllLearningExampleApplication] 55 - Starting AllLearningExampleApplication on DESKTOP-OVCH32V with PID 21968 (D:\资料文案\code 项目笔记\all-learning-example\target\classes started by changrong in D:\资料文案\code 项目笔记\all-learning-example)
+[] 2020-07-15 21:53:28.702 [INFO] [restartedMain] [com.mi.AllLearningExampleApplication] 651 - No active profile set, falling back to default profiles: default
+[] 2020-07-15 21:53:28.825 [INFO] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] 225 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[] 2020-07-15 21:53:28.826 [INFO] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] 225 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[] 2020-07-15 21:53:30.038 [INFO] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] 108 - Tomcat initialized with port(s): 8080 (http)
+[] 2020-07-15 21:53:30.048 [INFO] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] 173 - Initializing ProtocolHandler ["http-nio-8080"]
+[] 2020-07-15 21:53:30.049 [INFO] [restartedMain] [org.apache.catalina.core.StandardService] 173 - Starting service [Tomcat]
+[] 2020-07-15 21:53:30.050 [INFO] [restartedMain] [org.apache.catalina.core.StandardEngine] 173 - Starting Servlet engine: [Apache Tomcat/9.0.36]
+[] 2020-07-15 21:53:30.150 [INFO] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] 173 - Initializing Spring embedded WebApplicationContext
+[] 2020-07-15 21:53:30.150 [INFO] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] 285 - Root WebApplicationContext: initialization completed in 1324 ms
+[] 2020-07-15 21:53:30.794 [INFO] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] 58 - LiveReload server is running on port 35729
+[] 2020-07-15 21:53:30.803 [INFO] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] 173 - Starting ProtocolHandler ["http-nio-8080"]
+[] 2020-07-15 21:53:30.825 [INFO] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] 220 - Tomcat started on port(s): 8080 (http) with context path ''
+[] 2020-07-15 21:53:30.834 [INFO] [restartedMain] [com.mi.AllLearningExampleApplication] 61 - Started AllLearningExampleApplication in 2.812 seconds (JVM running for 4.357)
+[] 2020-07-15 21:53:36.229 [INFO] [http-nio-8080-exec-2] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] 173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[] 2020-07-15 21:53:36.229 [INFO] [http-nio-8080-exec-2] [org.springframework.web.servlet.DispatcherServlet] 525 - Initializing Servlet 'dispatcherServlet'
+[] 2020-07-15 21:53:36.238 [INFO] [http-nio-8080-exec-2] [org.springframework.web.servlet.DispatcherServlet] 547 - Completed initialization in 9 ms
+[] 2020-07-15 21:53:36.370 [INFO] [http-nio-8080-exec-2] [com.mi.controller.UserController] 115 - 未使用缓存
+[] 2020-07-15 21:53:36.513 [INFO] [http-nio-8080-exec-2] [com.zaxxer.hikari.HikariDataSource] 110 - HikariPool-1 - Starting...
+[] 2020-07-15 21:53:36.516 [WARN] [http-nio-8080-exec-2] [com.zaxxer.hikari.util.DriverDataSource] 70 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+[] 2020-07-15 21:53:36.660 [INFO] [http-nio-8080-exec-2] [com.zaxxer.hikari.HikariDataSource] 123 - HikariPool-1 - Start completed.
+[] 2020-07-15 22:09:37.568 [INFO] [restartedMain] [com.mi.AllLearningExampleApplication] 55 - Starting AllLearningExampleApplication on DESKTOP-OVCH32V with PID 10916 (D:\资料文案\code 项目笔记\all-learning-example\target\classes started by changrong in D:\资料文案\code 项目笔记\all-learning-example)
+[] 2020-07-15 22:09:37.573 [INFO] [restartedMain] [com.mi.AllLearningExampleApplication] 651 - No active profile set, falling back to default profiles: default
+[] 2020-07-15 22:09:37.849 [INFO] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] 225 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[] 2020-07-15 22:09:37.850 [INFO] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] 225 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[] 2020-07-15 22:09:41.514 [INFO] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] 108 - Tomcat initialized with port(s): 8080 (http)
+[] 2020-07-15 22:09:41.571 [INFO] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] 173 - Initializing ProtocolHandler ["http-nio-8080"]
+[] 2020-07-15 22:09:41.572 [INFO] [restartedMain] [org.apache.catalina.core.StandardService] 173 - Starting service [Tomcat]
+[] 2020-07-15 22:09:41.573 [INFO] [restartedMain] [org.apache.catalina.core.StandardEngine] 173 - Starting Servlet engine: [Apache Tomcat/9.0.36]
+[] 2020-07-15 22:09:41.807 [INFO] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] 173 - Initializing Spring embedded WebApplicationContext
+[] 2020-07-15 22:09:41.808 [INFO] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] 285 - Root WebApplicationContext: initialization completed in 3958 ms
+[] 2020-07-15 22:09:43.640 [INFO] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] 58 - LiveReload server is running on port 35729
+[] 2020-07-15 22:09:43.655 [INFO] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] 173 - Starting ProtocolHandler ["http-nio-8080"]
+[] 2020-07-15 22:09:43.700 [INFO] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] 220 - Tomcat started on port(s): 8080 (http) with context path ''
+[] 2020-07-15 22:09:43.719 [INFO] [restartedMain] [com.mi.AllLearningExampleApplication] 61 - Started AllLearningExampleApplication in 7.425 seconds (JVM running for 10.313)
+[] 2020-07-15 22:10:03.203 [INFO] [http-nio-8080-exec-2] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] 173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[] 2020-07-15 22:10:03.205 [INFO] [http-nio-8080-exec-2] [org.springframework.web.servlet.DispatcherServlet] 525 - Initializing Servlet 'dispatcherServlet'
+[] 2020-07-15 22:10:03.258 [INFO] [http-nio-8080-exec-2] [org.springframework.web.servlet.DispatcherServlet] 547 - Completed initialization in 53 ms
+[] 2020-07-15 22:10:03.737 [INFO] [http-nio-8080-exec-2] [com.mi.controller.UserController] 115 - 未使用缓存
+[] 2020-07-15 22:10:04.171 [INFO] [http-nio-8080-exec-2] [com.zaxxer.hikari.HikariDataSource] 110 - HikariPool-1 - Starting...
+[] 2020-07-15 22:10:04.181 [WARN] [http-nio-8080-exec-2] [com.zaxxer.hikari.util.DriverDataSource] 70 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+[] 2020-07-15 22:10:04.540 [INFO] [http-nio-8080-exec-2] [com.zaxxer.hikari.HikariDataSource] 123 - HikariPool-1 - Start completed.
+[] 2020-07-15 22:13:06.640 [INFO] [restartedMain] [com.mi.AllLearningExampleApplication] 55 - Starting AllLearningExampleApplication on DESKTOP-OVCH32V with PID 10148 (D:\资料文案\code 项目笔记\all-learning-example\target\classes started by changrong in D:\资料文案\code 项目笔记\all-learning-example)
+[] 2020-07-15 22:13:06.651 [INFO] [restartedMain] [com.mi.AllLearningExampleApplication] 651 - No active profile set, falling back to default profiles: default
+[] 2020-07-15 22:13:06.767 [INFO] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] 225 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[] 2020-07-15 22:13:06.767 [INFO] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] 225 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[] 2020-07-15 22:13:08.809 [INFO] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] 108 - Tomcat initialized with port(s): 8080 (http)
+[] 2020-07-15 22:13:08.824 [INFO] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] 173 - Initializing ProtocolHandler ["http-nio-8080"]
+[] 2020-07-15 22:13:08.824 [INFO] [restartedMain] [org.apache.catalina.core.StandardService] 173 - Starting service [Tomcat]
+[] 2020-07-15 22:13:08.825 [INFO] [restartedMain] [org.apache.catalina.core.StandardEngine] 173 - Starting Servlet engine: [Apache Tomcat/9.0.36]
+[] 2020-07-15 22:13:08.985 [INFO] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] 173 - Initializing Spring embedded WebApplicationContext
+[] 2020-07-15 22:13:08.985 [INFO] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] 285 - Root WebApplicationContext: initialization completed in 2217 ms
+[] 2020-07-15 22:13:10.085 [INFO] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] 58 - LiveReload server is running on port 35729
+[] 2020-07-15 22:13:10.101 [INFO] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] 173 - Starting ProtocolHandler ["http-nio-8080"]
+[] 2020-07-15 22:13:10.131 [INFO] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] 220 - Tomcat started on port(s): 8080 (http) with context path ''
+[] 2020-07-15 22:13:10.141 [INFO] [restartedMain] [com.mi.AllLearningExampleApplication] 61 - Started AllLearningExampleApplication in 4.806 seconds (JVM running for 7.195)
+[] 2020-07-15 22:13:19.821 [INFO] [http-nio-8080-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] 173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[] 2020-07-15 22:13:19.821 [INFO] [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] 525 - Initializing Servlet 'dispatcherServlet'
+[] 2020-07-15 22:13:19.843 [INFO] [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] 547 - Completed initialization in 21 ms
+[] 2020-07-15 22:13:20.002 [INFO] [http-nio-8080-exec-1] [com.mi.controller.UserController] 115 - 未使用缓存
+[] 2020-07-15 22:13:20.138 [INFO] [http-nio-8080-exec-1] [com.zaxxer.hikari.HikariDataSource] 110 - HikariPool-1 - Starting...
+[] 2020-07-15 22:13:20.141 [WARN] [http-nio-8080-exec-1] [com.zaxxer.hikari.util.DriverDataSource] 70 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+[] 2020-07-15 22:13:20.497 [INFO] [http-nio-8080-exec-1] [com.zaxxer.hikari.HikariDataSource] 123 - HikariPool-1 - Start completed.
+[] 2020-07-15 22:13:26.431 [ERROR] [http-nio-8080-exec-3] [com.mi.exception.GlobalExceptionHandler] 47 - 捕捉Throwble异常
+org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public com.mi.common.ResponseResult com.mi.controller.UserController.save(com.mi.domain.dto.UserDTO) with 3 errors: [Field error in object 'userDTO' on field 'phone': rejected value [null]; codes [NotBlank.userDTO.phone,NotBlank.phone,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [userDTO.phone,phone]; arguments []; default message [phone]]; default message [手机号不能为空!]] [Field error in object 'userDTO' on field 'age': rejected value [null]; codes [NotNull.userDTO.age,NotNull.age,NotNull.java.lang.Integer,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [userDTO.age,age]; arguments []; default message [age]]; default message [年龄不能为空!]] [Field error in object 'userDTO' on field 'email': rejected value [null]; codes [NotEmpty.userDTO.email,NotEmpty.email,NotEmpty.java.lang.String,NotEmpty]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [userDTO.email,email]; arguments []; default message [email]]; default message [邮箱不能为空!]] 
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.resolveArgument(RequestResponseBodyMethodProcessor.java:139)
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:167)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:134)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.mi.filter.TraceIdFilter.doFilter(TraceIdFilter.java:46)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+[] 2020-07-15 22:13:26.444 [ERROR] [http-nio-8080-exec-3] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]] 175 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Could not resolve view with name 'api/users' in servlet with name 'dispatcherServlet'] with root cause
+javax.servlet.ServletException: Could not resolve view with name 'api/users' in servlet with name 'dispatcherServlet'
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1353)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.mi.filter.TraceIdFilter.doFilter(TraceIdFilter.java:46)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
